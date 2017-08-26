@@ -1,0 +1,6 @@
+#local db files
+database/db.lck
+database/db.log
+
+#local GIS cache
+cache/
