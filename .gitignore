@@ -1,9 +1,5 @@
 # autosaves
 *.autosave
 
-#local db files
-*.lck
-*.properties
-
 #miscellaneous
 *.tmp
